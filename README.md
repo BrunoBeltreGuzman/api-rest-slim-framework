@@ -7,6 +7,12 @@ API-REST with slim framework in PHP and MySQL for a notes application with two r
 **Slim is a PHP micro-framework, which helps you create APIs quickly but reliably.**
 **In essence, Slim is a dispatcher that receives an HTTP request, invokes an appropriate callback routine, and returns an HTTP response.**
 
+# Install
+**Use $ composer install or $ composer i**
+```console
+$ composer install
+```
+
 # Users:
 
 **Insert:**
